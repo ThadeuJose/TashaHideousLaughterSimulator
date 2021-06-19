@@ -1,2 +1,2 @@
 # TashaHideousLaughterSimulator
-A Simulator to make a graphic about the probability of get your card exiled by Tasha Hideous Laughter
+A Simulator to make a graphic about the probability of get yours cards exiled by Tasha's Hideous Laughter
